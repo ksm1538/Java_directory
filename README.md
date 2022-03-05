@@ -1,7 +1,8 @@
 # Java_human_information_project
 
-전화번호부 관리 프로그램
-(인터넷 강좌보고 따라하며 공부한 JavaFX Project)
+JavaFX를 이용해 만든 간단한 전화번호부 관리 프로그램
+대학교 전공과목에서 알게된 JavaFX에 대한 호기심으로 이 프로젝트를 진행하게 되었습니다.
+
 
 * 개발 연도 : 2016
 
