@@ -9,3 +9,6 @@ JavaFX를 이용해 만든 간단한 전화번호부 관리 프로그램
 * 사용 기술 스택 
 - Java
 - JavaFX
+
+* Capture
+<img src="https://github.com/ksm1538/projectImagesRepo/blob/main/Java_human_information_project/main.png"/>
