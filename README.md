@@ -6,7 +6,7 @@
 
 <p style='font-weight: bold'>개발 연도 : 2016</p>
 
-* 사용 기술 스택 
+<i class="fas fa-code" /> 사용 기술 스택 
 - Java
 - JavaFX
 
