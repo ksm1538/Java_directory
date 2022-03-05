@@ -13,5 +13,4 @@
 
 
 <br/>
-<p>* Capture</p>
 <img src="https://github.com/ksm1538/projectImagesRepo/blob/main/Java_human_information_project/main.png" />
