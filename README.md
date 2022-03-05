@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <h2>Java_human_information_project</h2>
 
 <h3>JavaFX를 이용해 만든 간단한 전화번호부 관리 프로그램</h3>
