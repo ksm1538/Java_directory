@@ -4,7 +4,7 @@
 <p>대학교 전공과목에서 알게된 JavaFX에 대한 호기심으로 이 프로젝트를 진행하게 되었습니다.</p>
 
 
-<font style="bold">개발 연도 : 2016</font>
+<p style="font-weight: bold">개발 연도 : 2016</p>
 
 * 사용 기술 스택 
 - Java
